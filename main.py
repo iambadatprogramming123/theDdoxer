@@ -1,4 +1,4 @@
-#code written by Toto The Cat
+#code written by iambadatprogramming123
 
 import time
 from pyfiglet import figlet_format as f
